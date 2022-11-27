@@ -20,3 +20,5 @@ print()
 a = a + a * d
 print(k2, round(a, 2), z, sep=" ")
 print()
+
+# the end
